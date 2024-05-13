@@ -5,6 +5,10 @@ With the usage of
 ✅useEffect Hook
 ✅Sound Effect
 
+# Check demo from here 
+
+https://thunderslot.github.io/TicTacToeReact/
+
 # Tic Tac Toe UI
 
 ![Tic Tac Toe UI](public/TicTacToe.jpg)
