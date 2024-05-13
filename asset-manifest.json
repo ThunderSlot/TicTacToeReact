@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TicTacToeReact/static/css/main.9532a27f.css",
+    "main.js": "/TicTacToeReact/static/js/main.6d4b1588.js",
+    "static/js/453.e036e8b5.chunk.js": "/TicTacToeReact/static/js/453.e036e8b5.chunk.js",
+    "static/media/game_over.wav": "/TicTacToeReact/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/TicTacToeReact/static/media/click.450b31dca5ff2247781d.wav",
+    "static/media/tada.mp3": "/TicTacToeReact/static/media/tada.3498592142c6a444b30b.mp3",
+    "static/media/X.mp3": "/TicTacToeReact/static/media/X.f54d3af52cf67611e366.mp3",
+    "static/media/O.mp3": "/TicTacToeReact/static/media/O.a27e685dc1fe3609866d.mp3",
+    "index.html": "/TicTacToeReact/index.html",
+    "main.9532a27f.css.map": "/TicTacToeReact/static/css/main.9532a27f.css.map",
+    "main.6d4b1588.js.map": "/TicTacToeReact/static/js/main.6d4b1588.js.map",
+    "453.e036e8b5.chunk.js.map": "/TicTacToeReact/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9532a27f.css",
+    "static/js/main.6d4b1588.js"
+  ]
+}
